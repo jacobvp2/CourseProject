@@ -10,6 +10,6 @@ The actual paper has been included in our repository for your own reference.
 ## Setup/Dependencies ## 
 
 ## Data ## 
-Our data is rather fluid in this case. We have an example of our demonstration video in a youtube link [here][youtube.com]. In an attempt to keep the data as similar to the original paper.
+Our data is rather fluid in this case. We have an example of our demonstration video in a youtube link [here](https://youtu.be/IJp4XV1OlPA). In an attempt to keep the data as similar to the original paper.
 ## Example Run ## 
 
