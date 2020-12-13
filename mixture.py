@@ -1,8 +1,6 @@
 import numpy as np
 import math
 from collections import Counter
-import time
-import random
 from generateData import topic1,topic2
 
 e_step = 2
